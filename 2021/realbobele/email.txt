@@ -1,0 +1,15 @@
+Hi there :)
+
+At first a big THANK YOU to bigmik and all of you to organize this fun little
+contest. I am hanging around the forum for some time now (lurking, as you called
+it), enjoying it very much, but did not write much yet, being a bit intimidated
+by the technical brilliance and expertise of most of the members here. So I do
+not hope for being able to win a teacup with my little game, but I am so curious
+what the more capable programmers can do with 48 lines that I did not want to
+have the second or third best not winning anything because of me being lazy and
+not pushing up the number of entries. And bigmik going ultimately broke also is
+worth the fun ;)
+
+So here is my submission, "Iceberg", including a manual, as requested.
+
+Thanks again and greetings from Germany

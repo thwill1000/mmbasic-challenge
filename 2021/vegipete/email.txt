@@ -1,0 +1,34 @@
+Greetings most honoured and exalted judges,
+
+In order to prevent further injury to myself and thwill's poking finger, I am submitting the attached program, titled "Escape to the Green Hills".
+
+=============
+
+Part Three of the Green Hills Saga!
+EscapeGreenHills800x600.jpg
+
+To round things off as the contest comes to a close, I have created a
+third episode, "Escape to the Green Hills" in which the player must
+navigate a maze. The alien command pyramid is hovering just above the
+ground. Your job is to find and activate the self-destruct device. Others
+have tried before you but apparently without success. We hope someone has
+left a message for you. As far as we know, all levels except the smallest
+one near the top, where we can infiltrate you, have an item of interest.
+But beware! Some of those items are likely to be aliens, greenish blobs
+according to reports. Destroy the pyramid to save the green hills, and
+hopefully escape out the bottom to tell the tale.
+
+Run the program to play. Press any key to pass the title screen.
+Use the arrow keys to move forward and backward and turn left and right.
+The space bar will prove useful too.
+If you find an object, move right to it to automatically interact with it.
+Circular black holes in the floor lead to lower levels.
+
+=============
+
+Note: the entire trilogy is available in a ZIP file in my posting near the bottom
+of page three of the contest thread on the BackShed
+This includes all three episodes, expanded commented versions of the programs
+and some extras such as a level generating program for part 3.
+
+Enjoy and have fun!

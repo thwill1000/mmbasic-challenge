@@ -1,0 +1,7 @@
+Hi,
+
+I’m submitting also some „piece of gold“ - Tower of Hanoi. I worked on it whole
+weekend, but it still can’t be compared to Mauro’s or Vegipete’s work 😪
+
+I have put help direct into program on the screen, so it should be clear how to
+control it…

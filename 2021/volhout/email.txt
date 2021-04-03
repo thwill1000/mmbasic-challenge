@@ -1,0 +1,50 @@
+
+Dear Nimue,Tom,Mick,
+
+Please find attached my final entry for the programming challenge: TLS.
+After playing with it I was not happy with the result. Graphics where too small. Therefore a final update.
+
+Despite the fact that the original 10 line sokoban was more impressive as a technical achievement (so much functionality in 10 lines) playing was not entertaining since it had only 2 levels.
+
+Therefore my entry is this version, more detail, and 20 levels. 37 lines of 80 characters, for a CMM1 running version 4.5c MMBasic. I did not check if this still works on a CMM2 using OPTION LEGACY ON.
+
+How to play:
+Game task: move the green boxes onto the yellow crosses.
+You (the Mario type guy) can only push the boxes, not pull.
+Typing lower case "r" reloads the current level.
+There are 20 levels. The level is shown in the left top corner.
+Mario is controlled using cursor keys
+
+Cheat: if you want to skip levels, add 1 line before the 34 lines that contains "w=your_next_level". The program will start at level 0, but pressing "r" will get you to this level.
+
+The code is not very readable, but you may use this to help understand a bit.
+
+' control by cursor keys-128 (128,129,130,131 => 0,1,2,3 => ^ V < >)
+' playfield values 0=empty, 1=target, 2=block, 3=wall
+
+'z   = size block
+'x,y = position human
+'e,g = new position human
+'o,p = position onscreen
+'n   = ascii value key
+'b,c = direction human
+'d   = done
+'a$  = key pressed
+'l,m = vars for decoding rooms
+'i,j = counters
+'k   = value field f(i,j)
+'f() = playing field
+'t() = target locations for the boxes
+'s   = size playfield (sxs)
+'q   = boolean (human on target)
+'w   = level (0....nn)
+'v$()= array to create sprites
+'r$  = sprite color
+
+Attached are the 37 lines in TLS_game.BAS
+
+I would like to thank Vegipete and TassyJim for their suggestions.
+I had a lot of fun creating this, may it give you fun playing...
+Have fun....😀.
+
+Volhout
