@@ -1,3 +1,6 @@
+' Copyright (c) lizby 2021
+' Derived with permission from code (c) vegipete 2020
+
 mode 7,8:w=rgb(white):bk=rgb(notblack):dim cr(5):cr(0)=rgb(green):
 cr(1)=rgb(red):cr(2)=rgb(cyan):cr(3)=rgb(yellow):cr(4)=rgb(blue)
 cls w:x=13:y=13:for i=0 to 4:circle x,y,12,,,cr(i),cr(i):y=y+26:next i

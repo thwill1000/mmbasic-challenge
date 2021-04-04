@@ -1,3 +1,5 @@
+' Copyright (c) Volhout 2021
+
 s=11:z=16:Dim f(s,s),t(s,s),v$(16):GoSub 1:Sprite Load"x.s":Do:Mode 4:Read x,y
 For i=1To s:Read a$:l=Val("&h"+a$):For j=1To s:f(i,j)=3And l:t(i,j)=(f(i,j)=1)
 l=l\4:Next j,i:Cls:Print w,,"TLS":f(x,y)=4:Do:d=0:For i=1To s:For j=1To s:k=f(i,j)

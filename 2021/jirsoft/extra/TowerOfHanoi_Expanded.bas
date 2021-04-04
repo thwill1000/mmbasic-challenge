@@ -1,3 +1,5 @@
+' Copyright (c) JirSoft 2021
+
 'Tower of Hanoi, expanded (readable) version
 'Made by JirSoft for Colour Maximite 1 & 2 BASIC Programming Challenge 2021
 '

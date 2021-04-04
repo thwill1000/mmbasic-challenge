@@ -1,3 +1,5 @@
+' Copyright (c) Volhout 2021
+
 ' TLSS = Ten Line Sokoban with Sprites
 
 ' control by cursor keys-128 (128,129,130,131 => 0,1,2,3 => ^ V < >)

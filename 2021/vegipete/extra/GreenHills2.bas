@@ -1,3 +1,5 @@
+' Copyright (c) vegipete 2021
+
 mp=0:sd=&hF000000:rd=RGB(RED):gn=&hF00FF00:bl=RGB(BLUE):yl=rd OR gn:mode 2,12,bl:cls:pause 999:hs=0
 sh=MM.HRES:sv=MM.VRES:p 1:?@(20,0)"Wave:":controller mouse open mp:sub c k:text t(k),sv-40,h$,CT
 end sub:?@(60+sh/3,0)"Score:":?@(.7*sh,0)"High Score:":dh:gui cursor on 1,0,0,rd:settick 25,MM,1

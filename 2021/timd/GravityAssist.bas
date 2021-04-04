@@ -1,3 +1,5 @@
+' Copyright (c) TimD 2021
+
 dim x(11),y(11),z(11),sx(999),sy(999),t$(3):t$(1)="HOME!":t$(2)="LOST IN SPACE!":t$(3)="CRASHED!"
 dim o(14):data 698,659,698,587,523,440,466,392,196,293,3,1,2,2,8:for tn=0 to 14:read o(tn):next'Tune
 mode 1,8:LVLS=30:dim c(LVLS),pw$(LVLS):data 940,7442,925,8351,791,180,344,755,110,279,581,996,760

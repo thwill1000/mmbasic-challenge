@@ -1,3 +1,5 @@
+' Copyright (c) vegipete 2021
+
 ' MakeMaze
 ' Generate encoded mazes for One-Page-Wonder maze
 '

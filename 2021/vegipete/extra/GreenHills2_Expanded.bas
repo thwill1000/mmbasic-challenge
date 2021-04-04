@@ -1,3 +1,5 @@
+' Copyright (c) vegipete 2021
+
 ' The Continuing Defence of the Green Hills
 ' by vegipete
 '

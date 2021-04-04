@@ -1,3 +1,5 @@
+' Copyright (c) realbobele 2021
+
 mode 3,8:dim lu as integer:dim an(199) as integer:dim r as integer:dim s as integer
 dim hs as integer
 page write 1:cls:color rgb(red),rgb(blue):print "A":sprite read 1,0,0,5,7:color rgb(white),rgb(blue)

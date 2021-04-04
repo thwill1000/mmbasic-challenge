@@ -1,3 +1,5 @@
+' Copyright (c) vegipete 2021
+
 '   In Defence of the Green Hills of Earth  v1.0              by vegipete, Feb 2021
 ' Use left and right arrow keys, and either Ctrl key.
 mode 3,12:dim ax(54),ay(54),m(9)=(0,1,0,1,2,3,2,3,4,5),ny(20),nx(20):ey=210:l=0:nf=200:tt=10000

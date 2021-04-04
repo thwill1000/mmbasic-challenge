@@ -1,3 +1,5 @@
+' Copyright (c) JirSoft 2021
+
 OPTION DEFAULT INTEGER:X1=135:X2=395:X3=655:cr=&hFFF0000:cy=&hFFFFF00:cw=&hFFFFFFF:tp=-1:frq=196
 du$="112211112211112211221122111122111122112211221111112112211111121122111111211221111112":y3=799
 mu$="ihfhiklkhifhefdbedabihfhiklkhifhefdbedabklmimlkiopmklmkpomlkhiklmimlkiopmklmkpomlkhi":ps=0

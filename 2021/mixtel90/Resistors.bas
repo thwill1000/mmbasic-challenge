@@ -1,3 +1,5 @@
+' Copyright (c) Mixtel90 2021
+
 'Resistors - for CMM2 - 2021 competition entry - by Mixtel90 - Any accuracy is accidental. :)
 cls:dim c(12),rv(6):bp=1::?@(40,85)"<-B":?@(320,85)"N->":dim ti(10) =(1,2,0,0,.5,.25,.1,.05,0,5,10)
 c(0)=rgb(black):c(1)=rgb(brown):c(2)=rgb(red):c(3)=rgb(255,100,0):c(4)=rgb(yellow):c(5)=rgb(green)

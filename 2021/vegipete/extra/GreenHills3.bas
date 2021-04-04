@@ -1,3 +1,5 @@
+' Copyright (c) vegipete 2021
+
 mode 1,8:M6=MM.VRES:M3=M6/2:M8=MM.HRES:M4=M8/2:C=100:for i=1 to 64:h=i*4-1:map(207+i/4)=rgb(h,0,h)
 map(63+i)=h<<8:map(63+i/4)=rgb(h,h,h):map(175+i/2)=rgb(h,i*2-1,0):map(31+i/2)=h:next:map set:dn=0
 cls map(65):T2$="The Green Hills":T1$="Escape to ":text M4,M4/2,T1$+T2$,CM,5,1,map(99),-1:SA:p 2:cls

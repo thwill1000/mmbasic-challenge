@@ -1,3 +1,5 @@
+' Copyright (c) Volhout 2021
+
 option legacy on
 s=11:z=15:Dim f(s,s),t(s,s),v$(16):GoSub 1:Sprite Load "x.s":Do:Mode 4:Read x,y
 For i=1 To s:Read a$:l=Val("&h"+a$):For j=1 To s:f(i,j)=3 And l:t(i,j)=(f(i,j)=1)

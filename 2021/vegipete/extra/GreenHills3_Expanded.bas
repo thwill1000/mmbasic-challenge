@@ -1,3 +1,5 @@
+' Copyright (c) vegipete 2021
+
 ' Escape to the Green Hills
 ' Episode Three of the Green Hills Saga
 '

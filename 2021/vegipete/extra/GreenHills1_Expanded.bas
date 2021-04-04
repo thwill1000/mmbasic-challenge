@@ -1,3 +1,5 @@
+' Copyright (c) vegipete 2021
+
 '   In Defense of the Green Hills of Earth  v1.1              by vegipete, Feb 2021
 ' Use left and right arrow keys, and either Ctrl key.
 '

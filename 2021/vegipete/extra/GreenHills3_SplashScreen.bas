@@ -1,3 +1,5 @@
+' Copyright (c) vegipete 2021
+
 mode 1,16 : cls : LOAD JPG "EscapeGreenHills800x600.jpg" : do:loop until inkey$ <> ""
 
 mode 1,8:M6=MM.VRES:M3=M6/2:M8=MM.HRES:M4=M8/2:C=100:for i=1 to 64:h=i*4-1:map(207+i/4)=rgb(h,0,h)
