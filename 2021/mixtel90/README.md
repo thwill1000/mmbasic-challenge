@@ -1,0 +1,33 @@
+# Resistors
+
+By @Mixtel90
+
+## Instructions
+
+The marked tolerance value on resistors is only a guide. In actual fact,
+resistors are selected on test for their tolerance after manufacture. It's
+unlikely that you'll find, say, a 5% resistor that's within 1% of it's marked
+value as those will have already been removed and sold as 1% resistors. Because
+of this, a resistor actually has two likely value bands, one above it's marked
+value and one below.
+
+The enclosed program attempts to show these value bands, with a graphical
+interface to set the value of the resistor. Simply move the band indicating
+pointer using the B and N keys and press a key 0-9, S or G (silver or gold) to
+set the band colour. The value information at the right hand side is updated
+automatically.
+
+The tolerance band will also show the more unusual closer tolerances that are
+available, although only 1%, 5% and 10% are calculated here. Many old resistors
+are 20% tolerance but this band hasn't been shown as it's unlikely to be of much
+interest now.
+
+The program illustrates quite nicely how unlikely it is that you'll find a
+resistor that is exactly it's marked value.
+
+**Controls:**
+
+    [B]               - left
+    [N]               - right
+    [0-9], [S] or [G] - set band colour
+    
