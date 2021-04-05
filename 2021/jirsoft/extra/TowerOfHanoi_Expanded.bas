@@ -13,6 +13,7 @@
 '(and I had space for it), but it was too late. So it's playing basic melody to left channel and
 '1/3 of it's frequency to right channel. Anyway, it can be switched ON/OFF with M-key...
 
+CLS
 OPTION DEFAULT INTEGER
 X1=135:X2=395:X3=655 'x positions of pillar 1, 2 and 3
 cr=&hFFF0000:cy=&hFFFFF00:cw=&hFFFFFFF  'color constants for RED, YELLOW and WHITE
