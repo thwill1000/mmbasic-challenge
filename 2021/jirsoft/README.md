@@ -2,6 +2,8 @@
 
 By @JirSoft
 
+<img src="extra/TowerOfHanoi.jpg" width="400" height="300" title="Tower of Hanoi screenshot">
+
 ## Instructions
 
 Move all discs from pillar 1 to pillar 3 with the help of pillar 2. There is just one rule, you can't put a bigger disc onto a smaller one.
