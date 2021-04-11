@@ -36,7 +36,7 @@ As mentioned above @vegipete wrote three games during the challenge, he also cre
      - as above but uncrunched and commented
  - `extra/GreenHills2.bas`
      - "In Renewed Defence of the Green Hills" (Missile Command clone)
-     - Controls: Requires a mouse
+     - Controls: Requires a 3-button mouse; each button fires from a different missile silo
          - The very first statement of the first line sets the mouse port.
          - Adjust this to match your system.
          - `mp=0` means use the built-in port available with 5.07.00bX
