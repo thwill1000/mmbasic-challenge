@@ -1,0 +1,230 @@
+Talking Head 1
+--------------
+
+Hello, my name is Tom Williams and I was one of the judges for the Colour
+Maximite 1 & 2 BASIC Programming Challenge in 2021.
+
+In this video I showcase, in no particular order, all the entries to the
+Challenge before counting down the three winners. Please note that any opinions
+that I express are my own and are not necessarily representative of the views of
+the other judges.
+
+The rules for the Challenge and links to the source for all the entries is
+provided in the description below.
+
+In summary the rules required each entry to be a single BASIC file that would
+fit in one editor page of 48 lines each of 100 characters. As you will see this
+led to some impressive entries, but with a couple of exceptions not to readable
+code.
+
+
+Chemi Chaos (Redux) @lizby
+--------------------------
+
+First up we have "Chemi Chaos (Redux)" an entry by LIZBY based on a program
+orginally written by VEGIPETE. This is an interesting logic game where the
+object is to move the chemical balls between the test tubes such that all the
+balls of the same colour end up in the same test tube. At no time is the player
+allowed to place one ball on-top of a ball of a different colour.
+
+This game was a fun challenge though I initially struggled with the controls, I
+think using the cursor-keys might have been more intuitive. A more significant
+issue is that it doesn't automatically recognise when you have completed a
+level, you have to manually press [X].
+
+As source-code goes this is actually one of the clearer programs despite the
+lack of whitespace or comments. I note that there is still plenty of space left
+left that might have been used to squeeze in some sound effects and music whilst
+still keeping to the Challenge's restrictions.
+
+
+Iceberg @ realbobele
+--------------------
+
+For our second entry we have "Iceberg" by REAL-BOB-ELE, my apologies if I've pronounced his
+handle incorrectly.
+
+What first excited me about this entry is that the author
+provided this mock cassette cover that was evocative of the games I would see
+and buy in the late 1980's.
+
+The game itself is a basic affair, the object being to pilot the boat along an
+ever narrowing scrolling river without hitting the ice cliffs on either side.
+Simple but effective and reminiscent of games you might expect on the very early
+8-bit machines or in type-in magazines.
+
+Much like the previous entry the source-code is generally readable though
+lacking in indentation and comments. As later entries will show there is plenty
+of space left for embelishment.
+
+
+Ten Line Sokoban (with Sprites) @Volhout
+----------------------------------------
+
+Our third entry is "Ten Line Sokoban (with Sprites)" by VOLHOUT. So called
+because the game engine (and original posted code) only takes up an impressive
+ten lines of code and the remainder of the permitted space is taken up by
+the game and sprite data. Equally impressive is that this entry was written for
+the ORIGINAL Colour Maximite though with help from the community on
+"The Back Shed" VOLHOUT also provided the judge's with a Colour Maximite 2
+version.
+
+The program is a logic puzzle game in which the player pushes crates around a
+warehouse trying to get them in the correct storage location. Apparently this
+is a popular genre of game that had until now completely escaped me, my
+success rate was not impressive. The game was fun if frustrating, it would be
+much improved by some manner of success animation and some sound effects or
+music.
+
+The source-code takes up a single page of 38 lines of 80 characters as allowed
+by the original Colour Maximite editor and it is very dense. As mentioned before
+the game engine only takes up 10 lines with the remainder being the data for the
+levels, the code to extract the sprites and finally the sprite data itself.
+
+
+Tower of Hanoi @Jiri
+--------------------
+
+Next up is a puzzle game by JIRI, this time based on the classic Tower of Hanoi
+puzzle where the object is to move all the discs from tower 1 to tower 3 without
+ever placing a larger disc on top of a smaller.
+
+This was an exceptionally complete entry that somehow fitted in both an
+"attract screen" and in-game music. The fact that it did not place amongst the
+three winners is just an indication of how high the standard of entries was.
+
+The only thing I can say constructively about the source-code is that is is
+dense. However JIRI did also provide an indented and commented expanded
+version which is available via the links in the description.
+
+
+Resistors @Mixtel
+-----------------
+
+Our fifth entry was also the only non-game and is by MIXTEL90. For the
+uninitiated this program explains and explores the mysteries of the coloured
+bands on resistors.
+
+Only being a very novice electronics hobbyist myself there is not much I can say
+about this program though it is both informative and competent. I think it would have
+been nice if there was an option to colour the resistor body in the common beige
+or blue and perhaps there could have been a quiz mode where the player is
+expected to identify resistor values against the clock ... though in reality
+I myself struggle to distinguish between the colours on the blue metal-oxide resistors.
+
+Wonder of wonders the source-code has both a little indenting and some comments
+and scored points in the Challenge for both.
+
+
+In Defence of the Green Hills of Earth @Vegipete
+------------------------------------------------
+
+Next in our showcase is the work of VEGIPETE who is a force of nature when it
+comes to writing programs for the Colour Maximite 2. The Challenge was no
+exception and not only did he contribute ideas, optimisations and bugfixes for
+some of the other entries he even found time to write a trilogy of games
+himself. The rules only allowed each entrant a single program and after some
+sustained prodding he eventually submitted the final part of his trilogy to the
+judges. However before we get to that I want to showcase the first two parts
+both of which were exceptional achievements in their own right.
+
+Part I of the trilogy is "In Defence of the Green Hills of Earth" a very
+competent Space Invaders clone that even includes the bonus flying saucer.
+About the only thing missing for the full nostalgic experience are the
+original's unmistakable sound effects. I also don't recall the original last
+few aliens generating such an overwhelming rain of death rays but that may
+just be me being a sore loser.
+
+The source-code is dense though I liked the smattering of amusing comments.
+Fortunately VEGIPETE did also provide indented and commented expanded
+versions of all three parts of the trilogy which are available via the links in
+the description.
+
+
+In Renewed Defence of the Green Hills @Vegipete
+-----------------------------------------------
+
+The second part of VEGIPETE's trilogy is "In Renewed Defence of the Green Hills"
+which continues the retro-game theme by being a Missile Command clone.
+
+I've always been a big fan of Missile Command and this version was no exception,
+especially once I worked out I needed to use all 3-buttons of the mouse in order
+to control the three silos.
+
+As before density is the source-code's chief achievement.
+
+
+Escape to the Green Hills @Vegipete
+-----------------------------------
+
+The third part of VEGIPETE's trilogy "Escape to the Green Hills" also
+coincidentally placed a well-deserved THIRD in the Challenge.
+
+The object of this game is to navigate the alien invaders multi-level mazelike
+command centre to find and activate its self-destruct whilst collecting a
+smattering of objects and avoiding the alien guards.
+
+I found this game reminiscent of both 3D Monster Maze on the ZX-81 and
+Transylvanian Tower on the ZX-Spectrum. Navigating some of the later levels of
+the maze can certainly be as frustrating as the latter was.
+
+Once more the extremely dense source code helps explain how VEGIPETE was able
+to do so much with so little.
+
+
+Gravity Assist @TimD
+--------------------
+
+The judges gave SECOND place to GRAVITY ASSIST a novel puzzle game by TimD.
+
+In this game the object is to select the correct angle for a space-ship to
+fire its thrusters in order for it to navigate the gravity wells of the various
+planets and safetly reach the space station.
+
+The game is well polished, and both interesting and frustrating in equal measure
+I've personally never seen anything like it, and if it is an original concept
+then I suggest Tim creates a mobile-phone version forthwith and attempts to
+cash-in.
+
+Despite the dense code the smattering of whitespace and helpful comments helped
+this program to its well deserved SECOND place.
+
+
+Hope Robot @MauroXavier
+-----------------------
+
+And finally to our winner, HOPE ROBOT by MAURO XAVIER. Mauro is one of the
+most accomplished developers on the Colour Maximite 2 having produced clones of
+both Wolfenstein 3D and Gauntlet as well as an impressive DEMO SCENE style
+program.
+
+His entry for the challenge was an arcade game, the premise of which -
+appropriate given that this has been the year of Covid-19 - is that you are a
+nanobot navigating the bloodstream of patients eradicating a virus plague. What
+this boils down to is a highly-polished shoot-em up with simple but effective
+graphics, sound and game-play.
+
+I think the source-code is the densest of all the entries with maybe 30 unused
+characters - very impressive - even if it makes the eyes bleed.
+
+I honestly made every effort to find fault with Mauro's entry but I'm not sure
+what more could be achieved in the available space and he is a worthy winner.
+If we repeat this Challenge in future years then I suspect we will need to
+invite him to act as a judge so as to increase everybody else's chances.
+
+
+Talking Head 2
+--------------
+
+And that is it for this year's Challenge.
+
+I'd like to thank our worthy winners, all the brave contestants who exposed
+their code to the world and my fellow judges including Mick Gulovsen who
+provided the prizes, Bill McKinley who stepped in at the last minute to help
+and NEE-MOWEE Jenkins whose idea this was originally. Finally a big thank you
+to Geoff Graham, Peter Mather and the others involved in the creation of
+this wonderful toy called the Colour Maximite 2.
+
+Hopefully we will do this all again in 12 months time. In the meantime thanks
+for watching and if you have any comments, good or bad, then please leave them
+in the comments below.
