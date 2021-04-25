@@ -2,6 +2,8 @@
 
 By @Mixtel90
 
+<img src="Resistors.png" width="400" title="Resistors screenshot">
+
 ## Instructions
 
 The marked tolerance value on resistors is only a guide. In actual fact,

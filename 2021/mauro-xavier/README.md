@@ -1,4 +1,4 @@
-# Hope Robot
+# Hope Robot (1st Place Winner)
 
 By @MauroXavier
 
@@ -7,6 +7,8 @@ hope of humanity to extinguish virus plague that spread to all the world.
 
 Navigate inside human bodies and save patients in this nano adventure for your
 Colour Maximite 2.
+
+<img src="HopeRobot.png" width="400" title="Hope Robot screenshot">
 
 ## Instructions
 

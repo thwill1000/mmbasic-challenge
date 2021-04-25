@@ -1,6 +1,8 @@
-# Gravity Assist
+# Gravity Assist (2nd Place Winner)
 
 By @TimD
+
+<img src="GravityAssist.png" width="400" title="Gravity Assist screenshot">
 
 ## Instructions
 

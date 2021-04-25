@@ -2,7 +2,7 @@
 
 By @JirSoft
 
-<img src="extra/TowerOfHanoi.jpg" width="400" height="300" title="Tower of Hanoi screenshot">
+<img src="TowerOfHanoi.png" width="400" height="300" title="Tower of Hanoi screenshot">
 
 ## Instructions
 

@@ -10,6 +10,8 @@ Three versions of the game are included:
  * `Sokoban-cmm2.bas` - minor changes to make Colour Maximite 2 compatible
  * `extra/Sokoban_Expanded.bas` - commented and uncrunched version of `Sokoban-cmm2.bas`
 
+<img src="TenLineSokoban.png" width="400" title="TenLineSokoban screenshot">
+
 ## Instructions
 
 Use your man to push the green boxes onto the yellow crosses. You can only push the boxes, not pull them.

@@ -1,4 +1,4 @@
-# Escape to the Green Hills
+# Escape to the Green Hills (3rd Place Winner)
 
 By @vegipete
 
@@ -7,6 +7,9 @@ By @vegipete
 optimisations and bugfixes to several of the other entries.
 
 The challenge rules only allowed a single official entry which was "Escape To The Green Hills", but see **Additional Notes** for details of his other contributions.
+
+<img src="GreenHills3.jpg" width="400" title="Escape to the Green Hills cover">
+<img src="GreenHills3-2.png" width="400" title="Escape to the Green Hills screenshot">
 
 ## Instructions
 
@@ -32,6 +35,9 @@ As mentioned above @vegipete wrote three games during the challenge, he also cre
  - `extra/GreenHills1.bas`
      - "In Defence of the Green Hills of Earth" (Space Invaders clone)
      - Controls: Cursor keys to move, either [Ctrl] to fire
+
+   <img src="extra/GreenHills1.png" width="400" title="In Defence of the Green Hills screenshot">
+
  - `extra/GreenHills1_Expanded.bas`
      - as above but uncrunched and commented
  - `extra/GreenHills2.bas`
@@ -40,7 +46,10 @@ As mentioned above @vegipete wrote three games during the challenge, he also cre
          - The very first statement of the first line sets the mouse port.
          - Adjust this to match your system.
          - `mp=0` means use the built-in port available with 5.07.00bX
- - `extra/GreenHills2_Expanded.bas`
+
+    <img src="extra/GreenHills2.png" width="400" title="In Renewed Defence of the Green Hills screenshot">
+
+- `extra/GreenHills2_Expanded.bas`
      - as above but uncrunched and commented
  - `extra/GreenHills3.bas`
      - "Escape to the Green Hills" - @vegipete's ultimate entry to the challenge

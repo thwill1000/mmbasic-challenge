@@ -2,6 +2,8 @@
 
 By @lizby derived with permission from the original [ChemiChaos game by @vegipete](https://www.thebackshed.com/forum/ViewTopic.php?TID=13265).
 
+<img src="ChemiChaosRedux.png" width="400" title="Chemi Chaos (Redux) screenshot">
+
 ## Instructions
 
 The object is to sort the vials so that all balls of the same color are in the
