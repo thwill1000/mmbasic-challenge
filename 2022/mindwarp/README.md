@@ -1,7 +1,11 @@
-Hi!
+# Groovy Trivia
 
-I would like to submit my program for the challenge, it's called Groovy Trivia. It is a simple trivia game but is more of a demonstration of experimenting with graphics drawing commands, and reading screen pixels to generate the play area.  Navigate question categories with left/right arrow keys, browse questions with up/down arrow keys.
+By @Mindwarp
 
-Thank you,
+A simple trivia game that demonstrates the graphics drawing commands, and reading screen pixels to generate the play area.
 
-Denis
+<img src="groovy.png" width="400" title="Groovy Trivia">
+
+## Instructions
+
+Navigate question categories with left/right cursor keys, browse questions with up/down cursor keys.
