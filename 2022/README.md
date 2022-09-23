@@ -1,11 +1,13 @@
 # MMBasic Programming Challenge 2022
 
+The second MMBasic Programming Challenge was held in April-July 2022.
+
 **Rules:**
 
  - [challenge-2022.pdf](https://github.com/thwill1000/mmbasic-challenge/tree/main/2022/challenge-2022.pdf)
 
 **The winners:**
- - 1st Place - [Stellar Battle in the Seven Green Hills Zone](https://github.com/thwill1000/mmbasic-challenge/tree/main/2022/vegipete) - @vegipete
+ - 1st Place - [Stellar Battle in the Seven Green Hills Zone](https://github.com/thwill1000/mmbasic-challenge/tree/main/2022/vegipete) - @VegiPete
  - 2nd Place - [Factor Fracture](https://github.com/thwill1000/mmbasic-challenge/tree/main/2022/timd) - @TimD
  - 3rd Place - [Fractal Mountains](https://github.com/thwill1000/mmbasic-challenge/tree/main/2022/lodovik) - @Lodovik
 
