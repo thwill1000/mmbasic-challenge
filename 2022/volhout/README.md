@@ -1,18 +1,11 @@
-Dear judges,
+# Robot-8 SSTV Decoder
 
-Please find my entry for the programming challenge.
-A Robot-8 SSTV decoder playground. The program is 4976 bytes in size.
-There is some explanation in the document attached.
+By @Volhout
 
-Playground means that this program represents my personal development and the software evolution for SSTV decoding on the PicoMiteVGA.
-There are some tools, and 4 different picture decoding algorithms that can be tried.
-Since most do not have amateur radio equipment, links are provided to a youtube stream that uses Robot-8 SSTV.
+A decoder for Robot-8 SSTV (Slow Scan Television) signals.
 
-Breaking the challenge rules, a small interface circuit is needed to connect a laptop to the PicomiteVGA.
+<img src="sstv.png" width="400" title="Robot-8 SSTV Decoder">
 
-In case judges cannot build the interface circuit, a link to a youtube video is provided to show the program in operation.
+Developed by amateur radio enthusiasts, [SSTV (Slow-Scan Television)](https://en.wikipedia.org/wiki/Slow-scan_television) is a transmission standard for sending video pictures over an audio channel. The early equipment consisted of analog electronics and picture tubes with storage capability and the earliest eye-catching application was by NASA who used it to send footage of the dark side of the moon. The Robot corporation was a company that influenced SSTV in the early days, since the early 1970’s they delivered encoders and decoders, and have contributed to the standard.
 
-Thank you for taking my entry into account.
-
-Harm de Leeuw
-(Volhout)
+For more details see [SSTV.pdf](SSTV.pdf).
