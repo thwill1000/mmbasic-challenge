@@ -25,3 +25,7 @@ The inaugural, but hopefully not only, Colour Maximite 1 & 2 BASIC Programming C
  - See [vegipete/README.md](https://github.com/thwill1000/mmbasic-challenge/tree/main/2021/vegipete) for how these came about.
  - [In Defence of the Green Hills of Earth](https://github.com/thwill1000/mmbasic-challenge/tree/main/2021/vegipete/extra/GreenHills1.bas)
  - [In Renewed Defence of the Green Hills](https://github.com/thwill1000/mmbasic-challenge/tree/main/2021/vegipete/extra/GreenHills2.bas)
+
+**Video showcasing the results:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=09I0LDv7SiM"><img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" width="10%" title="(https://www.youtube.com/watch?v=09I0LDv7SiM"></a>
