@@ -13,3 +13,7 @@
 
  - [Robot-8 SSTV Decoder](https://github.com/thwill1000/mmbasic-challenge/tree/main/2022/volhout) - @Volhout
  - [Groovy Trivia](https://github.com/thwill1000/mmbasic-challenge/tree/main/2022/mindwarp) - @Mindwarp
+
+**Video showcasing the results:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.youtube.com/watch?v=fb_eVDY0-Gg"><img src="https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg" width="10%" title="https://www.youtube.com/watch?v=fb_eVDY0-Gg"></a>
